@@ -1,3 +1,6 @@
+.metadata
+RemoteSystemsTempFiles/
+
 # Prerequisites
 *.d
 
